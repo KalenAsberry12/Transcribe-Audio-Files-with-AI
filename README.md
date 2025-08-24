@@ -1,7 +1,5 @@
 # Transcribe Audio Files with AI
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-ai-transcribe)
-
 **Author:** Kalen Asberry  
 **Email:** kalenasberry52@gmail.com
 
